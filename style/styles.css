@@ -1,4 +1,4 @@
-{
+*{
     box-sizing: border-box;
 }
 
@@ -83,5 +83,11 @@ h3{
 h2{
     color: darkgoldenrod;
     font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+li{
+    color: darkred;
+    font-family: sans-serif;
+    font-size: 1em;
     text-align: left;
 }
