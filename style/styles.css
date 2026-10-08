@@ -1,0 +1,17 @@
+title, li{
+    color: indigo;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+p{
+    color: darkgoldenrod;
+    font-family: sans-serif;
+    font-size: 3em;
+    text-align: left;
+}
+h1{
+    color: darkred;
+    font-size: 6em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
