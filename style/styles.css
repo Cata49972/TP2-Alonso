@@ -39,11 +39,11 @@ main, aside{
 }
 
 main {
-    width: calc(80% - 20px); /* Resto 20px para que no colapse por el margin-left y margin-rigth */
+    width: calc(80% - 20px);
 }
 
 aside {
-    width: calc(20% - 20px); /* Resto 20px para que no colapse por el margin-left y margin-rigth */
+    width: calc(20% - 20px);
     background: #ddd;
 }
 
