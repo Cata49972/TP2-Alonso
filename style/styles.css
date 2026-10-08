@@ -68,7 +68,7 @@ footer {
     font-size: 0.9em;
     color: #555;
 }
-h1{
+h1, li{
     color: indigo;
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
